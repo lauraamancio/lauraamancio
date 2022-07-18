@@ -1,7 +1,6 @@
 ### Olá!! Eu sou a Laura Amancio 👋
 
-- 🔭 Desenvolvedora Front-End
-- 🌱 Em formação Full-Stack no Bootcamp da Labenu
+- 🔭 Desenvolvedora Full-Stack
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
