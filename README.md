@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/lauraamancio">
-  <img height="180em" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lauraamancio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraamancio&layout=compact&theme=gruvbox"/>
 </div>
   
  <div style="display: inline_block"><br>
