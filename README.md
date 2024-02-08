@@ -1,7 +1,6 @@
 ### Olá!! Eu sou a Laura Amancio 👋
 
 - 🔭 Desenvolvedora Full-Stack
-- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/lauraamancio">
